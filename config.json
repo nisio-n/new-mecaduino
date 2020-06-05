@@ -1,0 +1,24 @@
+{
+    "name": {
+        "en": "Mecaduino"
+    },
+    "description": {
+        "en": "Placa para programação em Scratch"
+    },
+    "author": "Mecatron",
+    "email": "n186261@dac.unicamp.br",
+    "license": "-",
+    "isBoard": false,
+    "id": "mecaduino12345",
+    "platform": ["win", "mac", "web"],
+    "asset": {
+        "arduinoC": {
+            "dir": "arduinoC/",
+            "version": "0.0.1",
+            "board": ["esp32"],
+            "main": "main.ts",
+            "files": ["note":" this field has been auto-generated, no need to fill in "
+            ]
+        }
+    }
+}
