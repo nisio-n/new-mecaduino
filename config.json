@@ -17,7 +17,7 @@
             "version": "0.0.1",
             "board": ["esp32"],
             "main": "main.ts",
-            "files": ["note"" this field has been auto-generated, no need to fill in "
+            "files": ["note":" this field has been auto-generated, no need to fill in "
             ]
         }
     }
